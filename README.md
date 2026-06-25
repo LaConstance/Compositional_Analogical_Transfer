@@ -6,10 +6,10 @@ Classical AI models (MLP, RNN, SINDy) learn global models with a fixed input siz
 
 We propose to learn a **local interaction rule** on a small system, then apply it to every connection of a larger system (compositional analogical transfer). We validate the method on **mechanical pendulums, quantum spin chains, synaptic plasticity, and fish schools**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LaConstance/compositional-analogical-transfer/blob/main/notebooks/compositional_analogical_transfer.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LaConstance/compositional-analogical-transfer/HEAD)
-[![nbviewer](https://img.shields.io/badge/view-nbviewer-orange)](https://nbviewer.org/github/LaConstance/compositional-analogical-transfer/blob/main/notebooks/compositional_analogical_transfer.ipynb)
-[![GitHub stars](https://img.shields.io/github/stars/LaConstance/compositional-analogical-transfer)](https://github.com/LaConstance/compositional-analogical-transfer/stargazers)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LaConstance/Compositional_Analogical_Transfer/blob/main/notebooks/compositional_analogical_transfer.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LaConstance/Compositional_Analogical_Transfer/HEAD)
+[![nbviewer](https://img.shields.io/badge/view-nbviewer-orange)](https://nbviewer.org/github/LaConstance/Compositional_Analogical_Transfer/blob/main/notebooks/compositional_analogical_transfer.ipynb)
+[![GitHub stars](https://img.shields.io/github/stars/LaConstance/Compositional_Analogical_Transfer)](https://github.com/LaConstance/Compositional_Analogical_Transfer/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <details>
@@ -95,7 +95,7 @@ The emergent collective dynamics (speed, density, polarization) are reproduced w
 ## 📁 Project Structure
 
 ```
-compositional-analogical-transfer/
+Compositional_Analogical_Transfer/
 ├── README.md                          # This file
 ├── LICENSE                            # MIT License
 ├── requirements.txt                   # Python dependencies
@@ -131,8 +131,8 @@ A full write‑up of the project is currently being prepared in LaTeX. It includ
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/LaConstance/compositional-analogical-transfer.git
-cd compositional-analogical-transfer
+git clone https://github.com/LaConstance/Compositional_Analogical_Transfer.git
+cd Compositional_Analogical_Transfer
 ```
 
 2. **Install dependencies**
