@@ -102,7 +102,7 @@ Compositional_Analogical_Transfer/
 ├── .gitignore                         # Ignored files
 │
 ├── notebooks/
-│   └── compositional_analogical_transfer.ipynb   # Main notebook
+│   └── Compositional_Analogical_Transfer.ipynb   # Main notebook
 │
 ├── docs/                              # Coming soon
 │   └── compositional_analogical_transfer.tex     # LaTeX source
