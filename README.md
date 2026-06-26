@@ -8,7 +8,7 @@ We propose to learn a **local interaction rule** on a small system, then apply i
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LaConstance/Compositional_Analogical_Transfer/blob/main/notebooks/Compositional_Analogical_Transfer.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LaConstance/Compositional_Analogical_Transfer/HEAD)
-[![nbviewer](https://img.shields.io/badge/view-nbviewer-orange)](https://nbviewer.org/github/LaConstance/Compositional_Analogical_Transfer/blob/main/notebooks/Compositional_analogical_transfer.ipynb)
+[![nbviewer](https://img.shields.io/badge/view-nbviewer-orange)](https://nbviewer.org/github/LaConstance/Compositional_Analogical_Transfer/blob/main/notebooks/Compositional_Analogical_Transfer.ipynb)
 [![GitHub stars](https://img.shields.io/github/stars/LaConstance/Compositional_Analogical_Transfer)](https://github.com/LaConstance/Compositional_Analogical_Transfer/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
